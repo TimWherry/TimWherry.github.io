@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
 
-### More Information
+Hello, I am Tim Wherry, a Canadian software developer and ametuer game developer. I have been programming for 7 years, though 5 of them were as a hobby making tools for myself.
 
-A place to include any other types of information that you'd like to include about yourself.
+### More To Come
+
+As I think of stuff, I'll add it here.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[TimWherry@gmail.com](mailto:TimWherry@gmail.com)
